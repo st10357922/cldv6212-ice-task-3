@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSwor+Si6LItU65zGAIx5YR5ShZloGuZgfr3H5CiCFM7s4pzsG21pttxxMjNqLJ9BS0x9vVGiePxqwbxKTILOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Downloads\\FiboFileShare\\FiboFileShare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.storage.common\\12.20.1\\azure.storage.common.12.20.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.storage.files.shares\\12.19.1\\azure.storage.files.shares.12.19.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.storage.queues\\12.19.1\\azure.storage.queues.12.19.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
